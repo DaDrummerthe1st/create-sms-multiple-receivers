@@ -4,6 +4,8 @@ from PyQt5.QtWidgets import QApplication
 from PyQt5.QtWidgets import QLabel
 from PyQt5.QtWidgets import QWidget
 
+# https://realpython.com/python-pyqt-gui-calculator/
+
 class RenderPhonenumberGUI:
     def __init__(self):
         # instantiate QApplication using an empty list since no command line arguments will be accepted,
